@@ -72,3 +72,10 @@ D:\Projects\Github\JwtWebApi\obj\Debug\net6.0\refint\Prototype.dll
 D:\Projects\Github\JwtWebApi\obj\Debug\net6.0\Prototype.pdb
 D:\Projects\Github\JwtWebApi\obj\Debug\net6.0\Prototype.genruntimeconfig.cache
 D:\Projects\Github\JwtWebApi\obj\Debug\net6.0\ref\Prototype.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Scrutor.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll

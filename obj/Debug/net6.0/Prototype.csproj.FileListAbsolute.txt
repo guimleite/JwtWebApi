@@ -79,3 +79,17 @@ D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyMod
 D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Scrutor.dll
 D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
 D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Npgsql.dll
+D:\Projects\Github\JwtWebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
